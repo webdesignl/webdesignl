@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Priyadharshini Sadhasivam
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Front end web developement
+- 🌱 I’m currently working as Front end web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
